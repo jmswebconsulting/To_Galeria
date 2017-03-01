@@ -541,8 +541,8 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1386.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1485.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Pintura em Tecido",
@@ -563,7 +563,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/escultura1-2000x1341.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
