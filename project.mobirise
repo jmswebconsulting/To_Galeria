@@ -532,7 +532,7 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "color": "#d9534f"
+              "color": "#5cb85c"
             }
           },
           "_params": {
@@ -541,7 +541,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/3-2000x1485.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
@@ -563,11 +563,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/escultura1-2000x1341.jpg",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Esculturas em Cerâmica",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Esculturas &nbsp;<br>em Cerâmica",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -685,13 +685,23 @@
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/2-2000x1746.jpg",
-                "active": true,
+                "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
                 "image": "@PROJECT_PATH@/assets/images/2-1024x576.jpg",
                 "title": "title 1",
                 "text": "text 1",
                 "tooltip": "@PROJECT_PATH@/assets/images/2-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/capture3-2000x2035.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/capture3-1024x576.jpg",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/capture3-85x48.png"
               }
             ],
             "theme": "boundary",
