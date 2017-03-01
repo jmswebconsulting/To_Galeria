@@ -10,7 +10,7 @@
     "versionFirst": "3.12",
     "uniqCompNum": 25,
     "versionPublish": "3.12",
-    "favicon": "@PROJECT_PATH@/assets/images/arrow-right.svg",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "",
@@ -23,7 +23,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Pagina_Inicial",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -342,7 +342,9 @@
       ]
     },
     "page1.html": {
-      "settings": {},
+      "settings": {
+        "title": "Trabalhos"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -414,32 +416,32 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1386.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "PINTURA II",
+                "title": "Pintura em Tecido",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "PINTURA III",
+                "title": "Pintura em Estilo Grafite",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "PINTURA I",
+                "title": "Esculturas em Cerâmica",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -514,7 +516,7 @@
             "image": {
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false,
@@ -776,7 +778,9 @@
       ]
     },
     "page2.html": {
-      "settings": {},
+      "settings": {
+        "title": "contacto"
+      },
       "components": [
         {
           "_inherit": "menu",
