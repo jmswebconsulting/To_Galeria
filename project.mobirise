@@ -532,7 +532,7 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "color": "#c8eeec"
+              "color": "#d9534f"
             }
           },
           "_params": {
@@ -564,9 +564,9 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/escultura1-2000x1341.jpg",
                 "contentAlign": "center",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Esculturas em Cerâmica",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
